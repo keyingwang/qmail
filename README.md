@@ -1,0 +1,2 @@
+参考lifewithqmail.org/lwq.html的配置流程
+生成运行qmail的docker
